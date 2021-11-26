@@ -3,7 +3,7 @@
 #include<string.h>
 int main()
 {
-int zx;
+int Mujahid;
 char string[31];
 int count=0,i;
 printf("Enter the String: ");
